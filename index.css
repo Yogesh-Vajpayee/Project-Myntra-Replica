@@ -94,7 +94,7 @@ header {
 }
 
 .bbanner_container {
-    margin: -60px 0px -60px 0px;
+    margin: 0px;
 }
 .banner_image {
     padding: 80px 0;
@@ -127,7 +127,7 @@ header {
 }
 
 .sale_item {
-    width: 250px;
+    width: 200px;
 }
 
 .footer_container {
